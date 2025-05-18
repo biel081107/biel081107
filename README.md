@@ -1,5 +1,5 @@
 Olá, eu sou o Gabriel Olímpio 👋
-Sou um desenvolvedor autodidata com foco em Python, HTML, CSS, JavaScript e Inteligência Artificial. Estou sempre aprendendo novas tecnologias e aplicando meus conhecimentos em projetos práticos.
+Sou um desenvolvedor autodidata com foco em C#, HTML, CSS, JavaScript e Inteligência Artificial. Estou sempre aprendendo novas tecnologias e aplicando meus conhecimentos em projetos práticos.
 
 🚀 Projetos que já desenvolvi:
 Sistema de Validação de Nomes: Ferramenta para verificar a disponibilidade e a validade de nomes em sistemas.
