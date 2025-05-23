@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Gabriel
 
-**`Desenvolvedor Web Back-End`**
+**`Desenvolvedor Web Full-Stack`**
 
 Me chamo Gabriel, tenho 17 anos e sou natural do Brasil. Estou trilhando meu caminho como desenvolvedor web, com foco em tecnologias como C#, ASP.NET Core e SQL Server. Atualmente estou me dedicando 100% a construir meu portfólio, estudar desenvolvimento back-end e buscar minha liberdade financeira e geográfica, com o objetivo de trabalhar remoto e futuramente morar no Canadá 🇨🇦.  
     <a href="https://github.com/biel081107?tab=repositories&sort=stargazers">
