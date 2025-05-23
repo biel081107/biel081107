@@ -105,6 +105,7 @@ Me chamo Gabriel, tenho 17 anos e sou natural do Brasil. Estou trilhando meu cam
 </p>
 
 ---
+<br clear="both"/>
 
 ## 🌎 Onde Me Encontrar
 - 📸 **Instagram:** https://www.instagram.com/bielolimpio08/
