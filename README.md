@@ -2,7 +2,9 @@
 
 **`Desenvolvedor Web Full-Stack`**
 
-Me chamo Gabriel, tenho 17 anos e sou natural do Brasil. Estou trilhando meu caminho como desenvolvedor web, com foco em tecnologias como C#, ASP.NET Core e SQL Server. Atualmente estou me dedicando 100% a construir meu portfólio, estudar desenvolvimento back-end e buscar minha liberdade financeira e geográfica, com o objetivo de trabalhar remoto e futuramente morar no Canadá 🇨🇦.  
+Sou desenvolvedor backend com foco em tecnologias Microsoft, apaixonado por resolver problemas através da programação e pela construção de sistemas robustos e escaláveis. Tenho experiência na criação de APIs, desenvolvimento de aplicações web e manipulação de bancos de dados relacionais.
+Atualmente estou focado em aprimorar minhas habilidades com C#, .NET, SQL Server e Entity Framework, além de possuir conhecimentos sólidos em desenvolvimento web com HTML, CSS, JS e fundamentos de front-end. Estou sempre em busca de novos desafios, projetos e oportunidades que me permitam evoluir como profissional e entregar soluções de alto nível.
+Seja muito bem-vindo ao meu repositório, aqui compartilho meus projetos, estudos e evolução na carreira de desenvolvimento.
     <a href="https://github.com/biel081107?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
