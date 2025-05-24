@@ -5,6 +5,8 @@
 Sou desenvolvedor backend com foco em tecnologias Microsoft, apaixonado por resolver problemas através da programação e pela construção de sistemas robustos e escaláveis. Tenho experiência na criação de APIs, desenvolvimento de aplicações web e manipulação de bancos de dados relacionais.
 Atualmente estou focado em aprimorar minhas habilidades com C#, .NET, SQL Server e Entity Framework, além de possuir conhecimentos sólidos em desenvolvimento web com HTML, CSS, JS e fundamentos de front-end. Estou sempre em busca de novos desafios, projetos e oportunidades que me permitam evoluir como profissional e entregar soluções de alto nível.
 Seja muito bem-vindo ao meu repositório, aqui compartilho meus projetos, estudos e evolução na carreira de desenvolvimento.
+
+<br/>
     <a href="https://github.com/biel081107?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
