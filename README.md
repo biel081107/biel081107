@@ -111,7 +111,6 @@ Seja muito bem-vindo ao meu repositório, aqui compartilho meus projetos, estudo
 <br clear="both"/>
 
 ## 🌎 Onde Me Encontrar
-- 📸 **Instagram:** https://www.instagram.com/bielolimpio08/
 - 💼 **LinkedIn:** www.linkedin.com/in/gabriel-olimpio-43965729b
 - 🧠 **Portfólio:** (Em desenvolvimento)
 - 📬 **Email:** contatoolimpiodev@gmail.com
